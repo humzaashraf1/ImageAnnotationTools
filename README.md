@@ -22,3 +22,5 @@ The CV2 polygon drawer tool will allow the user to create a mask by holding down
 
 ![cat 2956](https://github.com/humzaashraf1/ImageAnnotationTools/assets/121640997/a7d44628-73f3-4e3d-a7d4-efa73db25944)
 ![cat 2956](https://github.com/humzaashraf1/ImageAnnotationTools/assets/121640997/12699377-e683-4af5-af2d-ac8b62757519)
+
+**Portions of code in this repository were generated with the assistance of ChatGPT, an AI language model developed by OpenAI
